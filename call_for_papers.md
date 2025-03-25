@@ -8,7 +8,7 @@ share-description: MIST Workshop at ESORICS 2025
 
 <table>
   <tbody>
-    <tr style="background-color:#FAF0E6; color:#F4F4F4">
+    <tr style="background-color:#FAF0E6; color:#242526">
       <td>Paper Submission Deadline</td>
       <td>30th June 2025</td>
     </tr>
