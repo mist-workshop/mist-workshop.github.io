@@ -5,8 +5,8 @@ share-description: MIST Workshop at ESORICS 2025
 ---
 
 ## Important Dates
-{: style="text-align: justify"}
 <center>
+<br>
 <table>
   <tbody>
     <tr style="background-color:#fdf2d5; color:#242526">
@@ -27,6 +27,7 @@ share-description: MIST Workshop at ESORICS 2025
 
 
 {: style="text-align: justify"}
+
 *Note*: _all deadlines are Anywhere On Earth (AOE) time_
 
 {: style="text-align: justify"}
