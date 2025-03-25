@@ -1,7 +1,3 @@
-body {
-    font-family: serif;
-}
-
 ---
 layout: page
 title: Call for Papers
