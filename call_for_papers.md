@@ -60,3 +60,13 @@ mobile security. Possible topics include, but are not limited to:
 - Cyber physical systems security
 - Cryptography for IoT and mobile
 - Mobile user authentication and authorization
+
+## Submission guidelines
+{: style="text-align: justify"}
+Submitted papers must not substantially overlap with previously published or currently under review papers for journals or conferences. The only accepted format
+for submission is pdf. Submitted papers must follow the LNCS template from the time they are submitted. Submitted papers should be at most 16 pages (using
+10-point font), excluding the bibliography and well-marked appendices, and at most 20 pages total. Committee members are not required to read the appendices, so the
+paper should be intelligible without them. All submissions must be written in English. 
+Failure to comply with these guidelines may lead to rejection without considering the content’s quality. If accepted, authors must agree to the Springer LNCS copyright
+and present their papers at the workshop.
+
