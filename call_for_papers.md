@@ -5,8 +5,7 @@ share-description: MIST Workshop at ESORICS 2025
 ---
 
 ## Important Dates
-
-<div style="text-align: center;">
+{: style="text-align: justify"}
 <table>
   <tbody>
     <tr style="background-color:#fdf2d5; color:#242526">
@@ -23,7 +22,6 @@ share-description: MIST Workshop at ESORICS 2025
     </tr>
   </tbody>
 </table>
-</div>
 
 
 {: style="text-align: justify"}
