@@ -4,7 +4,7 @@ share-description: MIST Workshop at ESORICS 2025
 ---
 
 {:style="text-align:center;"}
-<img src="assets/img/MIST.png" alt="drawing" width="500"/>
+<img src="assets/img/MIST.png" alt="drawing" width="750"/>
 <!--![logo](assets/img/MIST.png){:class="img-responsive"; style="width:350px; display:block; margin-right:auto; margin-left:auto;}-->
 
 {:style="text-align:center;"}
