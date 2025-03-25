@@ -135,17 +135,17 @@ keywords: "mist,esorics,security,iot,conference,workshop"
 
 # Personalize the colours in your website. Colour values can be any valid CSS colour
 
-page-col: "#6d6d8a"
+page-col: "#868da4"
 text-col: "#242526"
-link-col: "#008AFF"
-hover-col: "#fdf2d5"
-navbar-col: "#5C5470"
+link-col: "#fdf2d5"
+hover-col: "#fadb8c"
+navbar-col: "#5f667e"
 navbar-text-col: "#fdf7e3"
 navbar-border-col: "#fdf7e3"
 footer-col: "#EAEAEA"
 footer-text-col: "#777777"
 footer-link-col: "#404040"
-footer-hover-col: "#0085A1"
+footer-hover-col: "#5f667e"
 
 # Alternatively, the navbar, footer, and page background can be set to an image
 # instead of colour
