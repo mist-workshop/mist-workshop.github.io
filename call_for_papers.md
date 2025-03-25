@@ -6,6 +6,12 @@ share-description: MIST Workshop at ESORICS 2025
 
 ## Important Dates
 
+<style>
+  body {
+    font-family: serif;
+}
+</style>
+
 <table>
   <tbody>
     <tr style="background-color:#18191a; color:#F4F4F4">
