@@ -6,7 +6,7 @@ share-description: MIST Workshop at ESORICS 2025
 
 ## Important Dates
 {: style="text-align: justify"}
-<table>
+<table style="margin: auto;">
   <tbody>
     <tr style="background-color:#fdf2d5; color:#242526">
       <td>Paper Submission Deadline</td>
@@ -63,10 +63,5 @@ mobile security. Possible topics include, but are not limited to:
 
 ## Submission guidelines
 {: style="text-align: justify"}
-Submitted papers must not substantially overlap with previously published or currently under review papers for journals or conferences. The only accepted format
-for submission is pdf. Submitted papers must follow the LNCS template from the time they are submitted. Submitted papers should be at most 16 pages (using
-10-point font), excluding the bibliography and well-marked appendices, and at most 20 pages total. Committee members are not required to read the appendices, so the
-paper should be intelligible without them. All submissions must be written in English. 
-Failure to comply with these guidelines may lead to rejection without considering the content’s quality. If accepted, authors must agree to the Springer LNCS copyright
-and present their papers at the workshop.
+Submitted papers must not substantially overlap with previously published or currently under review papers for journals or conferences. The only accepted format for submission is pdf. Submitted papers must follow the LNCS template from the time they are submitted. Submitted papers should be at most 16 pages (using 10-point font), excluding the bibliography and well-marked appendices, and at most 20 pages total. Committee members are not required to read the appendices, so the paper should be intelligible without them. All submissions must be written in English. Failure to comply with these guidelines may lead to rejection without considering the content’s quality. If accepted, authors must agree to the Springer LNCS copyright and present their papers at the workshop.
 
