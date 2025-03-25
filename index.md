@@ -1,4 +1,4 @@
 ---
 layout: page
-share-description: MIST Workshop @ ESORICS 2025
+share-description: MIST Workshop at ESORICS 2025
 ---
