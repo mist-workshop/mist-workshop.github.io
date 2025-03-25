@@ -5,7 +5,7 @@ share-description: MIST Workshop at ESORICS 2025
 
 
 {: style="text-align: center"}
-## MIST at [ESORICS 2025]
+# MIST at [ESORICS 2025]
 
 {: style="text-align: center"}
 ### Mobile and IoT Security Technologies
