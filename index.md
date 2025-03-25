@@ -3,12 +3,15 @@ layout: page
 share-description: MIST Workshop at ESORICS 2025
 ---
 
+{:style="text-align:center;"}
+![logo](assets/img/MIST.png){:class="img-responsive" style="width: 80%; display:block; margin-right:auto; margin-left:auto;}
 
-{: style="text-align: center"}
+<!--{: style="text-align: center"}
 # MIST at [ESORICS 2025]
 
 {: style="text-align: center"}
 ### Mobile and IoT Security Technologies
+-->
 
 {: style="text-align: center"}
 The MIST Workshop will be co-located with the\
