@@ -4,7 +4,7 @@ share-description: MIST Workshop at ESORICS 2025
 ---
 
 {:style="text-align:center;"}
-![logo](assets/img/MIST.png){:class="img-responsive" style="width: 100%; display:block; margin-right:auto; margin-left:auto;}
+![logo](assets/img/MIST.png){:class="img-responsive" style="width: 250px; display:block; margin-right:auto; margin-left:auto;}
 
 {:style="text-align:center;"}
 ![logo](assets/img/logo_esorics.png){:class="img-responsive" style="width:100px; display:block; margin-right:auto; margin-left:auto;}
@@ -18,7 +18,7 @@ share-description: MIST Workshop at ESORICS 2025
 
 {: style="text-align: center"}
 The MIST Workshop will be co-located with the\
- [30th European Symposium on Research in Computer Security(ESORICS) 2025](https://esorics2025.sciencesconf.org/){:target="_blank"}
+ [30th European Symposium on Research in Computer Security (ESORICS) 2025](https://esorics2025.sciencesconf.org/){:target="_blank"}
 
 {: style="text-align: center"}
 **September 22-26, 2025 - Toulouse, France**
