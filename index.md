@@ -7,7 +7,7 @@ share-description: MIST Workshop at ESORICS 2025
 ![logo](assets/img/MIST.png){:class="img-responsive" style="width: 100%; display:block; margin-right:auto; margin-left:auto;}
 
 {:style="text-align:center;"}
-![logo](assets/img/logo_esorics.png){:class="img-responsive" style="width: 30%; display:block; margin-right:auto; margin-left:auto;}
+![logo](assets/img/logo_esorics.png){:class="img-responsive" style="width:100px; display:block; margin-right:auto; margin-left:auto;}
 
 <!--{: style="text-align: center"}
 # MIST at [ESORICS 2025]
