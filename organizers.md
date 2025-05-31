@@ -15,7 +15,7 @@ share-description: MIST Workshop at ESORICS 2025
 
 - Hussam Al Hammadi, _Dubai University, United Arab Emirates_
 - Moayad Aloqaily, _Mohamed bin Zayed University of Artificial Intelligence, United Arab Emirates_
-- Giuseppe Di Fatta, _Libera Università di Bolzano, Italy_
+- Giuseppe Di Fatta, _Free University of Bozen, Italy_
 - Michele Grisafi,  _University of Trento, Italy_
 - Sandeep Gupta, _Queen's University Belfast, Ireland_
 - Michele Ianni, _University of Calabria, Italy_
