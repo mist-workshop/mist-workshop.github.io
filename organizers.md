@@ -11,7 +11,7 @@ share-description: MIST Workshop at ESORICS 2025
 - Bruno Crispo, _University of Trento, Italy_
 - Ernesto Damiani, _Khalifa University, United Arab Emirates_
 
-## Program Committee
+## Technical Program Committee (tentative)
 
 - Hussam Al Hammadi, _Dubai University, United Arab Emirates_
 - Moayad Aloqaily, _Mohamed bin Zayed University of Artificial Intelligence, United Arab Emirates_
