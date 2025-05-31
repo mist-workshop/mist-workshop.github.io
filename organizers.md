@@ -21,6 +21,7 @@ share-description: MIST Workshop at ESORICS 2025
 - Michele Ianni, _University of Calabria, Italy_
 - Valeria Loscrì, _Inria Lille, France_
 - Leandros Maglaras, _De Montfort University, United Kingdom_
+- Luigi Martino, _University of Bologna, Italy_
 - Laura Mauri, _University of Milan, Italy_
 - Khoa Nguyen, _University of Wollongong, Australia_
 - Sandeep Pirbhulal, _Norsk Regnesentral, Norway_
