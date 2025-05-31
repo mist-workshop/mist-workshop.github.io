@@ -19,9 +19,10 @@ share-description: MIST Workshop at ESORICS 2025
 - Michele Grisafi,  _University of Trento, Italy_
 - Sandeep Gupta, _Queen's University Belfast, Ireland_
 - Michele Ianni, _University of Calabria, Italy_
-- Valeria Loscrì, _University of Lille, France_
+- Valeria Loscrì, _Inria Lille, France_
 - Leandros Maglaras, _De Montfort University, United Kingdom_
 - Laura Mauri, _University of Milan, Italy_
 - Khoa Nguyen, _University of Wollongong, Australia_
 - Sandeep Pirbhulal, _Norsk Regnesentral, Norway_
 - Amir H. Taherkordi, _University of Oslo, Norway_
+- Selma Yahia, _Inria Lille, France_
