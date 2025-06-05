@@ -21,9 +21,9 @@ author: MIST Workshop
 
 navbar-links:
   Overview: "index"
-  Program: "program"
   Call for Papers: "call_for_papers"
   Organizers: "organizers"
+  Program: "program"
   Sponsors: "sponsors"
 
 ################
