@@ -72,3 +72,8 @@ Submitted papers must not substantially overlap with previously published or cur
 
 Submission site: <a href="https://easychair.org/conferences/?conf=esorics2025">https://easychair.org/conferences/?conf=esorics2025</a>
 
+
+{:style="text-align:center;"}
+<img src="assets/img/Screenshot from 2025-06-05 17-28-21.png" alt="drawing" width="250"/>
+
+
