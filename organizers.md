@@ -32,7 +32,7 @@ share-description: MIST Workshop at ESORICS 2025
 - Selma Yahia, _Inria Lille, France_
 
 
-## Steering Commitee
+## Steering Committee
 
 - Giancarlo Fortino, _University of Calabria, Italy_
 - Kim-Kwang Raymond Choo, _University of Texas, San Antonio, USA_
