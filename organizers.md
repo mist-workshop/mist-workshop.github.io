@@ -30,3 +30,11 @@ share-description: MIST Workshop at ESORICS 2025
 - Andrea Rosani, _Free University of Bozen, Italy_
 - Amir H. Taherkordi, _University of Oslo, Norway_
 - Selma Yahia, _Inria Lille, France_
+
+
+## Steering Commitee
+
+- Giancarlo Fortino, _University of Calabria, Italy_
+- Kim-Kwang Raymond Choo, _University of Texas, San Antonio, USA_
+- Bruno Crispo, _University of Trento, Italy_
+- Ernesto Damiani, _Khalifa University, United Arab Emirates_
