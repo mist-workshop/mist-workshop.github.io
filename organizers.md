@@ -25,7 +25,6 @@ share-description: MIST Workshop at ESORICS 2025
 - Leandros Maglaras, _De Montfort University, United Kingdom_
 - Luigi Martino, _University of Bologna, Italy_
 - Lara Mauri, _University of Milan, Italy_
-- Khoa Nguyen, _University of Wollongong, Australia_
 - Sandeep Pirbhulal, _Norsk Regnesentral, Norway_
 - Andrea Rosani, _Free University of Bozen, Italy_
 - Amir H. Taherkordi, _University of Oslo, Norway_
