@@ -20,8 +20,8 @@ share-description: MIST Workshop at ESORICS 2025
 - Giuseppe Di Fatta, _Free University of Bozen, Italy_
 - Michele Grisafi,  _University of Trento, Italy_
 - Sandeep Gupta, _Queen's University Belfast, Ireland_
-- Michele Ianni, _University of Calabria, Italy_
 - Mohammad Mehedi Hassan, _King Saudi University, Arabia Saudita_
+- Michele Ianni, _University of Calabria, Italy_
 - Valeria Loscrì, _Inria Lille, France_
 - Leandros Maglaras, _De Montfort University, United Kingdom_
 - Lara Mauri, _University of Milan, Italy_
