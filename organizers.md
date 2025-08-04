@@ -23,7 +23,6 @@ share-description: MIST Workshop at ESORICS 2025
 - Mohammad Mehedi Hassan, _King Saudi University, Arabia Saudita_
 - Valeria Loscrì, _Inria Lille, France_
 - Leandros Maglaras, _De Montfort University, United Kingdom_
-- Luigi Martino, _University of Bologna, Italy_
 - Lara Mauri, _University of Milan, Italy_
 - Sandeep Pirbhulal, _Norsk Regnesentral, Norway_
 - Andrea Rosani, _Free University of Bozen, Italy_
