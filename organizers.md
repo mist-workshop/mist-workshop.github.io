@@ -14,7 +14,6 @@ share-description: MIST Workshop at ESORICS 2025
 ## Technical Program Committee
 
 - Hussam Al Hammadi, _Dubai University, United Arab Emirates_
-- Ouns Bouachir, _Zayed University, United Arab Emirates_
 - Michele Grisafi,  _University of Trento, Italy_
 - Sandeep Gupta, _Queen's University Belfast, Ireland_
 - Michele Ianni, _University of Calabria, Italy_
