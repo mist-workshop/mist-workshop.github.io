@@ -4,6 +4,9 @@ title: Program
 share-description: MIST Workshop at ESORICS 2025
 ---
 
+## Program
+TBD
+
 ## Accepted papers
 - Streamlining Security Patches and Remote Attestations for the Internet of Things, _Konrad-Felix Krentz_
 - Lightweight IoT Intrusion Detection with Hybrid Feature Selection and CNN-Driven Image Transformation, _Negar Mansouri, Seyedeh Leili Mirtaheri, Seyyed Amir Asghari and Andrea Pugliese_
