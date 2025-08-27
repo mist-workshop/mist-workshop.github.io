@@ -7,7 +7,7 @@ share-description: MIST Workshop at ESORICS 2025
 ## Program
 TBD
 
-The MIST workshop will feature a dedicated session focusing on topics related to SERICS (SEcurity and RIghts in the CyberSpace). The session will provide an overview of current research directions addressed by the initiative and encourage dialogue with the scientific community.
+The MIST workshop will include a dedicated session focusing on topics related to the <a href="https://serics.eu/">SERICS (SEcurity and RIghts in the CyberSpace)</a> Project. The session will provide an overview of current research directions addressed by the initiative and encourage dialogue with the scientific community.
 
 ## Accepted papers
 - Streamlining Security Patches and Remote Attestations for the Internet of Things, _Konrad-Felix Krentz_
