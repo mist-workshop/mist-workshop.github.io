@@ -11,7 +11,7 @@ share-description: MIST Workshop at ESORICS 2025
 - SERICS keynote*
 - _Konrad-Felix Krentz_: Streamlining Security Patches and Remote Attestations for the Internet of Things
 
-**10:30 - 10:50: Coffee break**
+#### 10:30 - 10:50: Coffee break
 
 **10:50 - 12:20: Session 2**
 - _Negar Mansouri, Seyedeh Leili Mirtaheri, Seyyed Amir Asghari and Andrea Pugliese_: Lightweight IoT Intrusion Detection with Hybrid Feature Selection and CNN-Driven Image Transformation
