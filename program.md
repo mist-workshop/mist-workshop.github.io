@@ -7,7 +7,7 @@ share-description: MIST Workshop at ESORICS 2025
 ## Day 5 (Sept. 26) - Thesis Room (IRIT)
 
 ### 9:00 - 10:30: Session 1
-- _Claudia Greco_: Welcome Speech
+- _Claudia Greco_: Welcome speech
 - SERICS keynote<b>*</b>
 - _Konrad-Felix Krentz_: Streamlining Security Patches and Remote Attestations for the Internet of Things
 
@@ -25,6 +25,9 @@ share-description: MIST Workshop at ESORICS 2025
 - _Muhammad Irfan and Nelson Uto_: Revisiting the Effectiveness of Jailbreak Detection
 - _Amador Aparicio, M. Mercedes Martínez-González, Alejandro Pérez-Fuente and Pablo A. Criado-Lozano_: PIM: A Metric to Empower Mobile App Users in Privacy Management
 - _Gizem Akman, Philip Ginzboorg, Sampo Sovio and Valtteri Niemi_: Policy Enforcement Protocols with Split Keys
+- _Claudia Greco_: Closing remarks
+
+### 15:20 - 15:40: Coffee break
   
 <b>*</b>The MIST workshop will include a dedicated session focusing on topics related to the <a href="https://serics.eu/">SERICS (SEcurity and RIghts in the CyberSpace)</a> Project. The session will provide an overview of some of the research directions addressed by the initiative and encourage dialogue with the scientific community.
 
