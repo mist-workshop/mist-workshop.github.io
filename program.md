@@ -11,7 +11,7 @@ share-description: MIST Workshop at ESORICS 2025
 - SERICS keynote*
 - _Konrad-Felix Krentz_: Streamlining Security Patches and Remote Attestations for the Internet of Things
 
-#### 10:30 - 10:50: Coffee break
+### 10:30 - 10:50: Coffee break
 
 **10:50 - 12:20: Session 2**
 - _Negar Mansouri, Seyedeh Leili Mirtaheri, Seyyed Amir Asghari and Andrea Pugliese_: Lightweight IoT Intrusion Detection with Hybrid Feature Selection and CNN-Driven Image Transformation
@@ -19,9 +19,9 @@ share-description: MIST Workshop at ESORICS 2025
 - _Yutaro Osako, Hayato Hamano, Yuto Aono, Toshihiro Yamauchi, Katsunari Yoshioka, Takahiro Kasama, Takuya Fujihashi and Shunsuke Saruwatari_: Function-Level Syscall Fingerprinting for IoT Malware Capability Classification
 - _Julian Gagel, Kris Heid and Jens Heider_: Permission Granted? How Android’s App List Protection Fails in Practice
 
-**12:20 - 13:50: Lunch break**
+### 12:20 - 13:50: Lunch break
 
-**13:50 - 15:20: Session 3**
+### 13:50 - 15:20: Session 3
 - _Muhammad Irfan and Nelson Uto_: Revisiting the Effectiveness of Jailbreak Detection
 - _Amador Aparicio, M. Mercedes Martínez-González, Alejandro Pérez-Fuente and Pablo A. Criado-Lozano_: PIM: A Metric to Empower Mobile App Users in Privacy Management
 - _Gizem Akman, Philip Ginzboorg, Sampo Sovio and Valtteri Niemi_: Policy Enforcement Protocols with Split Keys
