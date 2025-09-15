@@ -13,7 +13,7 @@ share-description: MIST Workshop at ESORICS 2025
 
 **10:30 - 10:50: Coffee break**
 
-** 10:50 - 12:20: Session 2**
+**10:50 - 12:20: Session 2**
 - _Negar Mansouri, Seyedeh Leili Mirtaheri, Seyyed Amir Asghari and Andrea Pugliese_: Lightweight IoT Intrusion Detection with Hybrid Feature Selection and CNN-Driven Image Transformation
 - _Ilja Siroš, Rafael Cavalcanti, Dave Singelée and Bart Preneel_: Breaking the Silence: Fuzzing LTE-M and NB-IoT protocols
 - _Yutaro Osako, Hayato Hamano, Yuto Aono, Toshihiro Yamauchi, Katsunari Yoshioka, Takahiro Kasama, Takuya Fujihashi and Shunsuke Saruwatari_: Function-Level Syscall Fingerprinting for IoT Malware Capability Classification
