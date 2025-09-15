@@ -4,9 +4,7 @@ title: Program
 share-description: MIST Workshop at ESORICS 2025
 ---
 
-## Program
-
-**Day 5 (Sept. 26) - Thesis Room (IRIT)**
+## Day 5 (Sept. 26) - Thesis Room (IRIT)
 
 TBD
 
