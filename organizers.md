@@ -22,6 +22,8 @@ share-description: MIST Workshop at ESORICS 2025
 - Andrea Rosani, _Free University of Bozen, Italy_
 - Selma Yahia, _Inria Lille, France_
 
+
+<!--
 ## Steering Committee
 
 - Giancarlo Fortino, _University of Calabria, Italy_
