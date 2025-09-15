@@ -6,7 +6,7 @@ share-description: MIST Workshop at ESORICS 2025
 
 ## Day 5 (Sept. 26) - Thesis Room (IRIT)
 
-**9:00 - 10:30: Session 1**
+### 9:00 - 10:30: Session 1
 - _Claudia Greco_: Welcome Speech
 - SERICS keynote*
 - _Konrad-Felix Krentz_: Streamlining Security Patches and Remote Attestations for the Internet of Things
