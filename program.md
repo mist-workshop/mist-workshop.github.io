@@ -26,7 +26,7 @@ share-description: MIST Workshop at ESORICS 2025
 - _Amador Aparicio, M. Mercedes Martínez-González, Alejandro Pérez-Fuente and Pablo A. Criado-Lozano_: PIM: A Metric to Empower Mobile App Users in Privacy Management
 - _Gizem Akman, Philip Ginzboorg, Sampo Sovio and Valtteri Niemi_: Policy Enforcement Protocols with Split Keys
   
-  *The MIST workshop will include a dedicated session focusing on topics related to the <a href="https://serics.eu/">SERICS (SEcurity and RIghts in the CyberSpace)</a> Project. The session will provide an overview of some of the research directions addressed by the initiative and encourage dialogue with the scientific community.
+*The MIST workshop will include a dedicated session focusing on topics related to the <a href="https://serics.eu/">SERICS (SEcurity and RIghts in the CyberSpace)</a> Project. The session will provide an overview of some of the research directions addressed by the initiative and encourage dialogue with the scientific community.
 
 ## Accepted papers
 - Streamlining Security Patches and Remote Attestations for the Internet of Things, _Konrad-Felix Krentz_
