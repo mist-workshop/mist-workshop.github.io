@@ -5,6 +5,9 @@ share-description: MIST Workshop at ESORICS 2025
 ---
 
 ## Program
+
+**Day 5 (Sept. 26) - Thesis Room (IRIT)**
+
 TBD
 
 The MIST workshop will include a dedicated session focusing on topics related to the <a href="https://serics.eu/">SERICS (SEcurity and RIghts in the CyberSpace)</a> Project. The session will provide an overview of some of the research directions addressed by the initiative and encourage dialogue with the scientific community.
