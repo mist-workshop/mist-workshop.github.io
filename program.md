@@ -4,7 +4,7 @@ title: Program
 share-description: MIST Workshop at ESORICS 2025
 ---
 
-## Day 5 (Sept. 26) - Thesis Room (IRIT)
+## Day 5 (Sept. 26) - Thesis room (IRIT)
 
 ### 9:00 - 10:30: Session 1
 - _Claudia Greco_: Welcome speech
@@ -19,7 +19,7 @@ share-description: MIST Workshop at ESORICS 2025
 - _Yutaro Osako, Hayato Hamano, Yuto Aono, Toshihiro Yamauchi, Katsunari Yoshioka, Takahiro Kasama, Takuya Fujihashi and Shunsuke Saruwatari_: Function-Level Syscall Fingerprinting for IoT Malware Capability Classification
 - _Julian Gagel, Kris Heid and Jens Heider_: Permission Granted? How Android’s App List Protection Fails in Practice
 
-### 12:20 - 13:50: Lunch break
+### 12:20 - 13:50: Lunch break (Main building)
 
 ### 13:50 - 15:20: Session 3
 - _Muhammad Irfan and Nelson Uto_: Revisiting the Effectiveness of Jailbreak Detection
