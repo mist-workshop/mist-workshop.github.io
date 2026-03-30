@@ -15,11 +15,12 @@ share-description: MIST Workshop at ESORICS 2026
   <details markdown="1">
   <summary><h3>Program</h3></summary>
   
-  ## Day 5 (Sept. 26) - Thesis room (IRIT)
-  ### 9:00 - 10:30: Session 1
-  - _Claudia Greco_: Welcome speech
-  - Opening Keynote: _Michele Ianni_
-  - _Konrad-Felix Krentz_: Streamlining Security Patches and Remote Attestations for the Internet of Things
+## Day 5 (Sept. 26) - Thesis room (IRIT)
+
+### 9:00 - 10:30: Session 1
+- _Claudia Greco_: Welcome speech
+- Opening Keynote: _Michele Ianni_
+- _Konrad-Felix Krentz_: Streamlining Security Patches and Remote Attestations for the Internet of Things
 
 ### 10:30 - 10:50: Coffee break
 
