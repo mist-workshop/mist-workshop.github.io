@@ -1127,9 +1127,9 @@ pre {
 
 
 .no-arrow summary::marker {
-  display: none;
+  display: none !important;
 }
 
 .no-arrow summary::-webkit-details-marker {
-  display: none;
+  display: none !important;
 }
