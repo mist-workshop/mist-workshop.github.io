@@ -1124,3 +1124,12 @@ pre {
     display: inline-block;
   }
 }
+
+
+.no-arrow summary::marker {
+  display: none;
+}
+
+.no-arrow summary::-webkit-details-marker {
+  display: none;
+}
