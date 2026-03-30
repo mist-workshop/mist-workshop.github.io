@@ -13,7 +13,7 @@ share-description: MIST Workshop at ESORICS 2026
 <details class="custom-box">
   <summary><h2>MIST 2025</h2></summary>
   <p>
-  <summary<h3>Program</h3></summary>
+  <summary><h3>Program</h3></summary>
   <p>
   ## Day 5 (Sept. 26) - Thesis room (IRIT)
   ### 9:00 - 10:30: Session 1
