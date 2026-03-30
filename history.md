@@ -11,7 +11,8 @@ share-description: MIST Workshop at ESORICS 2026
 --->
 
 <details class="no-arrow">
-  <summary><h2>MIST 2025</h2></summary>
+<summary><h2>MIST 2025</h2></summary>
+  
   <details class="no-arrow" markdown="1">
   <summary><h3>Program</h3></summary>
   
