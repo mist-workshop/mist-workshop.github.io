@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Sponsors
-share-description: MIST Workshop at ESORICS 2025
+title: History
+share-description: MIST Workshop at ESORICS 2026
 ---
 <!-- <img src="assets/img/SMCieee.png" alt="drawing" width="400"/> -->
 
@@ -10,6 +10,19 @@ share-description: MIST Workshop at ESORICS 2025
 - <a href="https://dimes.unical.it/">Department of Computer Engineering, Modeling, Electronics and Systems (DIMES)</a>
 --->
 
-### Technical Sponsors
-- <a href="https://serics.eu/">Project SERICS (PE00000014) under the MUR National Recovery and Resilience Plan funded by the European Union - NextGenerationEU</a>
+## Past Editions
+
+<details class="custom-box">
+  <summary>### MIST 2025 </summary>
+  <p>#### Program </p>
+</details>
+
+
+
+
+
+
+
+
+
 
