@@ -12,7 +12,7 @@ share-description: MIST Workshop at ESORICS 2026
 
 <details class="no-arrow">
   <summary><h2>MIST 2025</h2></summary>
-  <details markdown="1">
+  <details class="no-arrow" markdown="1">
   <summary><h3>Program</h3></summary>
   
 ### Day 5 (Sept. 26) - Thesis room (IRIT)
@@ -43,8 +43,11 @@ share-description: MIST Workshop at ESORICS 2026
 <!--
 <b>*</b>The MIST workshop will include a dedicated session focusing on topics related to the <a href="https://serics.eu/">SERICS (SEcurity and RIghts in the CyberSpace)</a> Project. The session will provide an overview of some of the research directions addressed by the initiative and encourage dialogue with the scientific community.
 --->
+</details>
 
-## Accepted papers
+
+<details class="no-arrow" markdown="1">
+<summary><h3>Accepted papers</h3></summary>
 - Streamlining Security Patches and Remote Attestations for the Internet of Things, _Konrad-Felix Krentz_
 - Lightweight IoT Intrusion Detection with Hybrid Feature Selection and CNN-Driven Image Transformation, _Negar Mansouri, Seyedeh Leili Mirtaheri, Seyyed Amir Asghari and Andrea Pugliese_
 - Breaking the Silence: Fuzzing LTE-M and NB-IoT protocols, _Ilja Siroš, Rafael Cavalcanti, Dave Singelée and Bart Preneel_
