@@ -1,6 +1,6 @@
 ---
 layout: page
-title: History
+title: Past Editions
 share-description: MIST Workshop at ESORICS 2026
 ---
 <!-- <img src="assets/img/SMCieee.png" alt="drawing" width="400"/> -->
@@ -10,11 +10,9 @@ share-description: MIST Workshop at ESORICS 2026
 - <a href="https://dimes.unical.it/">Department of Computer Engineering, Modeling, Electronics and Systems (DIMES)</a>
 --->
 
-## Past Editions
-
 <details class="custom-box">
-  <summary>### MIST 2025 </summary>
-  <p>#### Program </p>
+  <summary> <h2>MIST 2025 </h2></summary>
+  <p> <h3>Program </h3></p>
 </details>
 
 
