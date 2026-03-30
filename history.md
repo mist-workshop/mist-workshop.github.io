@@ -15,7 +15,7 @@ share-description: MIST Workshop at ESORICS 2026
   <details markdown="1">
   <summary><h3>Program</h3></summary>
   
-## Day 5 (Sept. 26) - Thesis room (IRIT)
+### Day 5 (Sept. 26) - Thesis room (IRIT)
 
 ### 9:00 - 10:30: Session 1
 - _Claudia Greco_: Welcome speech
