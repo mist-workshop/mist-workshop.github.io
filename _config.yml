@@ -10,7 +10,7 @@
 ############################
 
 # Name of website
-title: MIST 2025 - Mobile and IoT Security Technologies at ESORICS 2025
+title: MIST 2026 - Mobile and IoT Security Technologies at ESORICS 2026
 
 # Your name to show in the footer
 author: MIST Workshop
@@ -24,7 +24,7 @@ navbar-links:
   Call for Papers: "call_for_papers"
   Organizers: "organizers"
   Program: "program"
-  Sponsors: "sponsors"
+  History: "history"
 
 ################
 # --- Logo --- #
@@ -86,7 +86,7 @@ social-network-links:
 
 # If you want your website to generate an RSS feed, provide a description
 # The URL for the feed will be https://<your_website>/feed.xml
-rss-description: MIST Workshop at ESORICS 2025
+rss-description: MIST Workshop at ESORICS 2026
 
 ###########################
 # --- General options --- #
