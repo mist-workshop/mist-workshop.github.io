@@ -14,7 +14,7 @@ share-description: MIST Workshop at ESORICS 2026
   <summary><h2>MIST 2025</h2></summary>
   <details>
   <summary><h3>Program</h3></summary>
-  <p>
+  
   ## Day 5 (Sept. 26) - Thesis room (IRIT)
   ### 9:00 - 10:30: Session 1
   - _Claudia Greco_: Welcome speech
@@ -51,7 +51,6 @@ share-description: MIST Workshop at ESORICS 2026
 - PIM: A Metric to Empower Mobile App Users in Privacy Management, _Amador Aparicio, M. Mercedes Martínez-González, Alejandro Pérez-Fuente and Pablo A. Criado-Lozano_
 - Policy Enforcement Protocols with Split Keys, _Gizem Akman, Philip Ginzboorg, Sampo Sovio and Valtteri Niemi_
 
-</p>
 </details>
 
 </details>
