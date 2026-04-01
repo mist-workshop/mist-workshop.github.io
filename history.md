@@ -10,10 +10,9 @@ share-description: MIST Workshop at ESORICS 2026
 - <a href="https://dimes.unical.it/">Department of Computer Engineering, Modeling, Electronics and Systems (DIMES)</a>
 --->
 
-<details class="no-arrow">
+<details class="no-arrow" markdown="1">
 <summary><h1>MIST 2025</h1></summary>
 
-<details markdown="1">
 
   {: style="text-align: center"}
 Co-located with the [30th European Symposium on Research in Computer Security (ESORICS) 2025](https://esorics2025.sciencesconf.org/){:target="_blank"}
