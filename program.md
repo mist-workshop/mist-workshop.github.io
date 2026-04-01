@@ -1,9 +1,12 @@
 ---
 layout: page
 title: Program
-share-description: MIST Workshop at ESORICS 2025
+share-description: MIST Workshop at ESORICS 2026
 ---
 
+TBD
+
+<!---
 ## Day 5 (Sept. 26) - Thesis room (IRIT)
 
 ### 9:00 - 10:30: Session 1
@@ -40,3 +43,6 @@ share-description: MIST Workshop at ESORICS 2025
 - Revisiting the Effectiveness of Jailbreak Detection, _Muhammad Irfan and Nelson Uto_
 - PIM: A Metric to Empower Mobile App Users in Privacy Management, _Amador Aparicio, M. Mercedes Martínez-González, Alejandro Pérez-Fuente and Pablo A. Criado-Lozano_
 - Policy Enforcement Protocols with Split Keys, _Gizem Akman, Philip Ginzboorg, Sampo Sovio and Valtteri Niemi_
+
+
+--->
