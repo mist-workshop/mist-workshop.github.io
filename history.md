@@ -20,7 +20,8 @@ Co-located with the\
 
 {: style="text-align: center"}
 **September 26, 2025 - Toulouse, France**
-  
+
+<!--  
 <h2>Important Dates</h2>
 <center>
 <br>
@@ -41,7 +42,26 @@ Co-located with the\
   </tbody>
 </table>
 </center>
+-->
 
+
+## Chairs
+
+- Claudia Greco, _University of Calabria, Italy_
+- Kim-Kwang Raymond Choo, _University of Texas, San Antonio, USA_
+- Bruno Crispo, _University of Trento, Italy_
+- Ernesto Damiani, _Khalifa University, United Arab Emirates_
+
+## Technical Program Committee
+
+- Hussam Al Hammadi, _Dubai University, United Arab Emirates_
+- Michele Grisafi,  _University of Trento, Italy_
+- Sandeep Gupta, _Queen's University Belfast, Ireland_
+- Michele Ianni, _University of Calabria, Italy_
+- Valeria Loscrì, _Inria Lille, France_
+- Lara Mauri, _University of Milan, Italy_
+- Andrea Rosani, _Free University of Bozen, Italy_
+- Selma Yahia, _Inria Lille, France_
   
   
 <h2>Program</h2>
