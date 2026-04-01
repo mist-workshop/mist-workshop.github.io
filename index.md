@@ -1,6 +1,6 @@
 ---
 layout: page
-share-description: MIST Workshop at ESORICS 2025
+share-description: MIST Workshop at ESORICS 2026
 ---
 
 {:style="text-align:center;"}
