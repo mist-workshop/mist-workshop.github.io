@@ -15,7 +15,7 @@ share-description: MIST Workshop at ESORICS 2026
 
 
   {: style="text-align: center"}
-Co-located with the\ 
+Co-located with the\
 [30th European Symposium on Research in Computer Security (ESORICS) 2025](https://esorics2025.sciencesconf.org/){:target="_blank"}
 
 {: style="text-align: center"}
