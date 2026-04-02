@@ -7,7 +7,7 @@ share-description: MIST Workshop at ESORICS 2026
 ## Chairs
 
 - Claudia Greco, _University of Calabria, Italy_
-- Kim-Kwang Raymond Choo, _Katholieke Universiteit Leuven, Belgium_
+- Bart Preneel, _Katholieke Universiteit Leuven, Belgium_
 - Mina Namaziesfanjani, _Universitat Oberta de Catalunya_
 - Andrea Pugliese, _University of Calabria, Italy_
 
