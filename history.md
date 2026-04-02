@@ -14,8 +14,8 @@ share-description: MIST Workshop at ESORICS 2026
 <summary><h1>MIST 2025</h1></summary>
 
 {: style="text-align: center"}
-The MIST Workshop 2025 was co-located with the\
-[30th European Symposium on Research in Computer Security (ESORICS) 2025](https://esorics2025.sciencesconf.org/){:target="_blank"}
+The MIST Workshop 2025 was co-located with the<br>
+  [30th European Symposium on Research in Computer Security (ESORICS) 2025](https://esorics2025.sciencesconf.org/){:target="_blank"}
 
 {: style="text-align: center"}
 **September 26, 2025 - Toulouse, France**
