@@ -1,18 +1,20 @@
 ---
 layout: page
 title: Organizers
-share-description: MIST Workshop at ESORICS 2025
+share-description: MIST Workshop at ESORICS 2026
 ---
 
 ## Chairs
 
 - Claudia Greco, _University of Calabria, Italy_
-- Kim-Kwang Raymond Choo, _University of Texas, San Antonio, USA_
-- Bruno Crispo, _University of Trento, Italy_
-- Ernesto Damiani, _Khalifa University, United Arab Emirates_
+- Kim-Kwang Raymond Choo, _Katholieke Universiteit Leuven, Belgium_
+- Mina Namaziesfanjani, _Universitat Oberta de Catalunya_
+- Andrea Pugliese, _University of Calabria, Italy_
 
 ## Technical Program Committee
+TBD
 
+<!--
 - Hussam Al Hammadi, _Dubai University, United Arab Emirates_
 - Michele Grisafi,  _University of Trento, Italy_
 - Sandeep Gupta, _Queen's University Belfast, Ireland_
@@ -21,7 +23,7 @@ share-description: MIST Workshop at ESORICS 2025
 - Lara Mauri, _University of Milan, Italy_
 - Andrea Rosani, _Free University of Bozen, Italy_
 - Selma Yahia, _Inria Lille, France_
-
+-->
 
 <!--
 ## Steering Committee
