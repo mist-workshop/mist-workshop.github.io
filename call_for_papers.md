@@ -11,7 +11,7 @@ share-description: MIST Workshop at ESORICS 2026
   <tbody>
     <tr style="background-color:#fdf7e3; color:#242526">
       <td>Paper Submission Deadline</td>
-      <td>June 30, 2026</td>
+      <td>June 20, 2026</td>
     </tr>
     <tr style="background-color:#faf5e6; color:#242526">
       <td>Notification to authors</td>
