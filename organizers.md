@@ -17,6 +17,7 @@ share-description: MIST Workshop at ESORICS 2026
 - Sandeep Gupta, _Queen University Belfast, Ireland_
 - Kris Heid, _Fraunhofer SIT located in Darmstadt, Germany_
 - Michele Ianni, _University of Calabria, Italy_
+TBC
 
 <!--
 - Hussam Al Hammadi, _Dubai University, United Arab Emirates_
