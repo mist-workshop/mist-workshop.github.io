@@ -18,6 +18,7 @@ share-description: MIST Workshop at ESORICS 2026
 - Kris Heid, _Fraunhofer SIT located in Darmstadt, Germany_
 - Michele Ianni, _University of Calabria, Italy_
 - M. Mercedes Martínez-González, _Universidad de Valladolid, Spain_
+  
 TBC
 
 <!--
