@@ -17,8 +17,10 @@ share-description: MIST Workshop at ESORICS 2026
 - Sandeep Gupta, _Queen University Belfast, Ireland_
 - Kris Heid, _Fraunhofer SIT located in Darmstadt, Germany_
 - Michele Ianni, _University of Calabria, Italy_
+- Shokooh	Khandan, _Manchester Metropolitan University, UK_
 - Tanya Koohpayeh Araghi, _Universitat Oberta de Catalunya, Spain_
 - M. Mercedes Martínez-González, _Universidad de Valladolid, Spain_
+
   
 TBC
 
