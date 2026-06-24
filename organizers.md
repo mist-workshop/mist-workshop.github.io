@@ -14,6 +14,7 @@ share-description: MIST Workshop at ESORICS 2026
 ## Technical Program Committee
 - Gizem Akman, _University of Helsinki, Finland_
 - Amador Aparicio, _Università di Valladolid, Spain_
+- Carmelo Felicetti, _UUniversity of Calabria, Italy_
 - Sandeep Gupta, _Queen University Belfast, Ireland_
 - Kris Heid, _Fraunhofer SIT located in Darmstadt, Germany_
 - Michele Ianni, _University of Calabria, Italy_
